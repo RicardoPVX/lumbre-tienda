@@ -6,13 +6,6 @@ Sitio estático de comercio electrónico para practicar HTML, CSS y JavaScript. 
 
 Abre `index.html` en un navegador. No requiere dependencias ni servidor.
 
-## Publicar con GitHub Pages
-
-1. Crea un repositorio en GitHub y sube todos los archivos de esta carpeta a la raíz del repositorio.
-2. En GitHub abre **Settings → Pages**.
-3. En **Build and deployment**, selecciona **Deploy from a branch**.
-4. Selecciona la rama `main` y la carpeta `/(root)`, luego pulsa **Save**.
-5. Cuando termine el despliegue, GitHub mostrará el enlace público en la sección Pages. La página de entrada es `index.html`.
 
 Los vínculos entre páginas y los recursos locales usan rutas relativas. El enlace de términos del formulario y las imágenes externas usan URLs absolutas.
 
